@@ -1,4 +1,4 @@
-# stockprices
+# StockPrices
 
 Predicting Stock Prices Using Python Pandas and Scikit-learn (https://aljocastro.github.io/stockprices/)
 
